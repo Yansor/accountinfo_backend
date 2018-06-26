@@ -75,7 +75,7 @@
 
 	</dependencies>
 
-
+	<!-- profile 在maven启动的时候 需要指定-Pid 选择其中一个Profile进行启动-->
 	<profiles>
 		<profile>
 			<id>fat-jar</id>
